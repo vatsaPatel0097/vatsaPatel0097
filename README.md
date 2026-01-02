@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Vatsal Patel, an M.Sc. Applied Data Science student passionate about building data-driven solutions and preparing for industry-ready roles.<br>🔭 I’m currently working on Machine Learning projects focused on real-world datasets  <br>🤝 I’m looking to collaborate on ML, Data Analysis, and Python-based projects  <br>🆘 I’m looking for help with model deployment, MLOps basics, and scalable ML pipelines  <br>🌱 I’m currently learning Feature Engineering, Model Evaluation, SQL Joins, and Deployment  <br>💬 Ask me about Python, Pandas, NumPy, SQL, Scikit-learn, and Supervised Learning  <br>⚡ Fun fact: My goal is to become a top-ranked Data Scientist in my batch 🎯<br>
+Hi 👋 I'm Vatsal Patel, an M.Sc. Applied Data Science student passionate about building data-driven solutions and preparing for industry-ready roles.<br>🔭 I’m currently working on Machine Learning projects focused on real-world datasets  <br>🤝 I’m looking to collaborate on ML, Data Analysis, and Python-based projects  <br>🆘 I’m looking for help with model deployment, MLOps basics, and scalable ML pipelines  <br>💬 Ask me about Python, Pandas, NumPy, SQL, Scikit-learn, and Supervised Learning  <br>⚡ Fun fact: My goal is to become a top-ranked Data Scientist in my batch 🎯<br>
 
 
 # 💻 Tech Stack:
